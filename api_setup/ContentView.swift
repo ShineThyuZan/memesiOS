@@ -3,7 +3,7 @@ import SwiftUI
 struct URLImage : View {
     let urlString : String
     @State var data: Data?
-    
+     
     var body: some View {
         if let data = data, let uiimage = UIImage(data: data){
             Image(uiImage: uiimage)
