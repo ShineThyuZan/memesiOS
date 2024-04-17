@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB25E4BE-9DAA-4FA0-B62C-5C09362EC1DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38404D26-2E2E-43B4-B02A-CDDDC2D41130"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "api_setup/Viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38404D26-2E2E-43B4-B02A-CDDDC2D41130 - 6005a2e7f0c3db16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in api_setup.Viewmodel.fetch() -&gt; ()"
+                  moduleName = "api_setup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lwinmoeaung/Desktop/iOS%20Project/api_setup/api_setup/Viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "38404D26-2E2E-43B4-B02A-CDDDC2D41130 - 6005a2e7f0c3db37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in api_setup.Viewmodel.fetch() -&gt; ()"
+                  moduleName = "api_setup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lwinmoeaung/Desktop/iOS%20Project/api_setup/api_setup/Viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BCBF3D7-471B-4B0B-A497-F5CAF67BB95B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "api_setup/Viewmodel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BCBF3D7-471B-4B0B-A497-F5CAF67BB95B - 6005a2e7f0c3db16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in api_setup.Viewmodel.fetch() -&gt; ()"
+                  moduleName = "api_setup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lwinmoeaung/Desktop/iOS%20Project/api_setup/api_setup/Viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "6BCBF3D7-471B-4B0B-A497-F5CAF67BB95B - 6005a2e7f0c3db37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in api_setup.Viewmodel.fetch() -&gt; ()"
+                  moduleName = "api_setup"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lwinmoeaung/Desktop/iOS%20Project/api_setup/api_setup/Viewmodel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

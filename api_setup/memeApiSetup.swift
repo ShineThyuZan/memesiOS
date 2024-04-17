@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct api_setupApp: App {
+struct memeApiSetup: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
